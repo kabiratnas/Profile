@@ -27,6 +27,13 @@ section#about {
     background-color: #e6f7ff;
 }
 
+section#name {
+    background-color: #17a1e1;
+    text-align: justify;
+    text-align-last: center;
+    font-size: larger;
+}
+
 section#goals {
     background-color: #fff2e6;
 }
